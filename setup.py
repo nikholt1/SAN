@@ -9,7 +9,7 @@ setup(
 	]
 	entry_points={
 		"console_scripts": [
-			"spectrum-analyzer=SpectrumAnalyzer:main",
+			"san=SpectrumAnalyzer:main",
 
 		],
 	},
