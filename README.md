@@ -11,7 +11,7 @@ Standard github installation:
 - pip install https://github.com/nikholt1/SAN.git
 
 command in terminal:
-- SAN
+- san
 
 
 
