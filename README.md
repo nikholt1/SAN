@@ -6,6 +6,15 @@ Primitive spectrum analyzer and Software Defined Radio Receiver.
 - Tested with HackRFOne
 - Tuned to receive FM radio signals
 
+### Usage
+Standard github installation:
+- pip install https://github.com/nikholt1/SAN.git
+
+command in terminal:
+- SAN
+
+
+
 ## GNU Radio Companion flow chart
 
 ![image](https://github.com/user-attachments/assets/d6e0382d-fb06-48e3-b5df-625cbed04e15)
