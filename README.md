@@ -8,11 +8,13 @@ Primitive spectrum analyzer and Software Defined Radio Receiver.
 
 ### Usage
 Standard github installation:
+```
 - pip install https://github.com/nikholt1/SAN.git
-
+```
 command in terminal:
+```
 - san
-
+```
 
 
 ## GNU Radio Companion flow chart
