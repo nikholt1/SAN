@@ -9,11 +9,11 @@ Primitive spectrum analyzer and Software Defined Radio Receiver.
 ### Usage
 Standard github installation:
 ```
-- pip install https://github.com/nikholt1/SAN.git
+pip install https://github.com/nikholt1/SAN.git
 ```
-command in terminal:
+Executional command in terminal:
 ```
-- san
+san
 ```
 
 
